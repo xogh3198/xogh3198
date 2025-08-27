@@ -2,7 +2,6 @@
   <h3><img src="https://github.com/user-attachments/assets/7475036b-75ce-40ea-8f18-eaef561ed762" width="15px" />
 Tech Stack</h3>
 </div>
-
 <div>
   <h4>[Backend]</h4>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
