@@ -1,93 +1,70 @@
 <div align=center>
 <br>
-  
-![header](https://capsule-render.vercel.app/api?type=rect&text=HAILEE&fontAlign=50&fontAlignY=35&fontSize=40&desc=/*web%20developer%20and%20more*/&descAlignY=70&descAlign=50&theme=radical)
+  
 
 <br>
 
 <h3 align="center"><b> PROFILE 📍 </b></h3>
-  <a href="https://haileelog.github.io/" target="_blank"><img src="https://img.shields.io/badge/website-ff69b4?style=for-the-badge&logo=About.me&logoColor=FFFFFF"/></a>
-  <a href="https://github.com/haileeLog" target="_blank"><img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo-bitdefender&logoColor=FFFFFF"/></a>
-  <a href="https://kkram95.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/techblog-666666?style=for-the-badge&logo-bitdefender&logoColor=FFFFFF"/></a>
+  <a href="[개인%20웹사이트%20또는%20블로그%20주소]" target="_blank"><img src="https://img.shields.io/badge/website-ff69b4?style=for-the-badge&logo=About.me&logoColor=FFFFFF"/></a>
+  <a href="https://github.com/xogh3198" target="_blank"><img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"/></a>
+  <a href="[기술%20블로그%20주소]" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/techblog-666666%3Fstyle%3Dfor-the-badge%26logo%3Dtistory%26logoColor%3DFFFFFF"/></a>
 <br>
 
-<h3 align="center"><b> TOY PROJECT 🧸 </b></h3>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/food_Roulette-A1BFD7?style=for-the-badge&logo-bitdefender&logoColor=FFFFFF"/></a>
-  <!-- https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white -->
+<h3 align="center"><b> PROJECT 🧸 </b></h3>
+  <a href="[프로젝트%20링크]" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/%ED%8B%B0%EC%BC%93%2520%EC%98%88%EB%A7%A4%2520%EC%8B%9C%EC%8A%A4%ED%85%9C-A1BFD7%3Fstyle%3Dfor-the-badge%26logoColor%3DFFFFFF"/></a>
 <br>
-<br>
-<br>
-
- <h3 align="center"><b>💡 What I've Used 💡</b></h3>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"/></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white"/></a>
-  <br>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF"/></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=FFFFFF"/></a>
-  <br>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/></a>
-  <br>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/></a>
-  <br>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/></a> 
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/></a> 
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=FFFFFF"/></a> 
-  <br>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/></a> 
-  <br>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=FFFFFF"/></a> 
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"/></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/></a>
 <br>
 <br>
 
- <h3><b>🛠 Tools 🛠</b></h3>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/DataGrip-000000.svg?style=for-the-badge&logo=datagrip&logoColor=white"/></a>
-  <br>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white"/></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"/></a>
-  <br>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white"/></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=sonarlint&logoColor=white"/></a>
- <br>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF"/></a> 
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white"/></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/confluence-147EFB?style=for-the-badge&logo=confluence&logoColor=#172B4D"/></a> 
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=FFFFFF"/></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=FFFFFF"/></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/trello-0052CC?style=for-the-badge&logo=trello&logoColor=FFFFFF"/></a> 
-  <br>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white"/></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=FFFFFF"/></a> 
-  <br>
-  <a href="" target="_blank"><img src="https://aleen42.github.io/badges/src/zeplin.svg"/></a>
+ <h3 align="center"><b>💡 What I've Used 💡</b></h3>
+    <a href="" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
+  <a href="" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Spring_Boot-6DB33F%3Fstyle%3Dfor-the-badge%26logo%3Dspring-boot%26logoColor%3Dwhite"/></a>
+  <a href="" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/JPA-59666C%3Fstyle%3Dfor-the-badge%26logo%3DHibernate%26logoColor%3Dwhite"/></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/></a>
+  <br>
+    <a href="" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/PostgreSQL-4169E1%3Fstyle%3Dfor-the-badge%26logo%3Dpostgresql%26logoColor%3Dwhite"/></a> 
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/></a>
+  <br>
+    <a href="" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Amazon_AWS-232F3E%3Fstyle%3Dfor-the-badge%26logo%3Damazonaws%26logoColor%3Dwhite"/></a> 
+  <a href="" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Docker-2496ED%3Fstyle%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite"/></a> 
+  <a href="" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Kubernetes-326CE5%3Fstyle%3Dfor-the-badge%26logo%3Dkubernetes%26logoColor%3Dwhite"/></a> 
+  <br>
+    <a href="" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
 <br>
 <br>
 
- <h3><b>📚 EDUCATION 📚</b></h3>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/inflearn-14BF96?style=for-the-badge&logoColor=white"/></a>
+ <h3><b>🛠 Tools 🛠</b></h3>
+    <a href="" target="_blank"><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/></a>
+  <br>
+    <a href="" target="_blank"><img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF"/></a> 
+  <a href="" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Helm-0F1689%3Fstyle%3Dfor-the-badge%26logo%3Dhelm%26logoColor%3Dwhite"/></a>
+  <a href="" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/ArgoCD-EF7B4D%3Fstyle%3Dfor-the-badge%26logo%3Dargo%26logoColor%3Dwhite"/></a>
+  <br>
+    <a href="" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Prometheus-E6522C%3Fstyle%3Dfor-the-badge%26logo%3Dprometheus%26logoColor%3Dwhite"/></a>
+  <a href="" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Grafana-F46800%3Fstyle%3Dfor-the-badge%26logo%3Dgrafana%26logoColor%3Dwhite"/></a>
+  <br>
+    <a href="" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Swagger-85EA2D%3Fstyle%3Dfor-the-badge%26logo%3Dswagger%26logoColor%3Dblack"/></a>
+<br>
+<br>
+
+ <h3><b>📚 EDUCATION 📚</b></h3>
+  <a href="" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/inflearn-00C471%3Fstyle%3Dfor-the-badge%26logoColor%3Dwhite"/></a>
+
 </div>
 <br>
 <br>
 
 <div align="center">
- <h3><b> 🎄 Github Stats 🎄 </b></h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=haileelog&show_icons=true&count_private=true&hide_border=true" align="center" />
-</div>  
+ <h3><b> 🎄 Github Stats 🎄 </b></h3>
+  <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dxogh3198%26show_icons%3Dtrue%26count_private%3Dtrue%26hide_border%3Dtrue%26theme%3Dradical" align="center" />
+</div>  
 <br>
 
 <div align="center">
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haileelog&langs_count=5&layout=compact)](https://github.com/jogilsang/jogilsang)
-  
+  
+  
+  
 </div>
