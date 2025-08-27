@@ -1,7 +1,5 @@
 <div align=center>
 <br>
-  
-
 <br>
 
 <h3 align="center"><b> PROJECT 🧸 </b></h3>
@@ -67,6 +65,15 @@
  <h3><b>📚 EDUCATION 📚</b></h3>
   <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/>
   <img src="https://img.shields.io/badge/inflearn-14BF96?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CloudWave-0078D4?style=for-the-badge&logoColor=white"/>
+<br>
+<br>
+
+ <h3><b>📜 CERTIFICATES 📜</b></h3>
+  <img src="https://img.shields.io/badge/정보처리기사-0052CC?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLD-F29111?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/컴퓨터활용능력-3366FF?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TOEIC-0066CC?style=for-the-badge&logoColor=white"/>
 
 </div>
 <br>
