@@ -28,9 +28,13 @@ Tech Stack</h3>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
 
   <h4>[Certificates]</h4> 
-  <img src="https://img.shields.io/badge/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EA%B8%B0%EC%82%AC-0096C7?style=for-the-badge&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/SQLD-E53935?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/%EC%BB%B4%ED%99%9C-106466?style=for-the-badge&logo=microsoft-excel&logoColor=white" /> <img src="https://img.shields.io/badge/TOEIC-D9534F?style=for-the-badge&logo=google&logoColor=white" />
+   <img src="https://img.shields.io/badge/정보처리기사-0052CC?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLD-F29111?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/컴퓨터활용능력-3366FF?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TOEIC-0066CC?style=for-the-badge&logoColor=white"/>
   <h4>[Education]</h4> 
-  <img src="https://img.shields.io/badge/Cloudwave-337AB7?style=for-the-badge&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/%EC%9D%B8%ED%94%84%EB%9F%B0-2C3E50?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/inflearn-14BF96?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CloudWave-0078D4?style=for-the-badge&logoColor=white"/>
 </div>
 
 
