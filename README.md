@@ -33,11 +33,13 @@ Tech Stack</h3>
   <img src="https://img.shields.io/badge/SAA(AWS)-14BF96?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/TOEICSPEAKING(IH)-0066CC?style=for-the-badge&logoColor=white"/>
   
-  <h4>[Intern/Education]</h4> 
-  <img src="https://img.shields.io/badge/suresofttech-0052CC?style=for-the-badge&logoColor=white"/>
+  <h4>[Education]</h4> 
+    <img src="https://img.shields.io/badge/CJ Olivenetworks(CloudWave)-0078D4?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/inflearn-14BF96?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CJ Olivenetworks(CloudWave)-0078D4?style=for-the-badge&logoColor=white"/>
 
+   <h4>[Company]</h4> 
+   <img src="https://img.shields.io/badge/suresofttech-0052CC?style=for-the-badge&logoColor=white"/>
+   <img src="https://img.shields.io/badge/TradLab-14BF96?style=for-the-badge&logoColor=white"/>
 </div>
 
 
