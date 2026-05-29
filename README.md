@@ -29,7 +29,7 @@ Tech Stack</h3>
   <h4>[Certificates]</h4> 
    <img src="https://img.shields.io/badge/정보처리기사-0052CC?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLD-F29111?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-SAA-0052CC?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS(SAA)-0052CC?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/컴퓨터활용능력-3366FF?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/TOEIC-0066CC?style=for-the-badge&logoColor=white"/>
   <h4>[Education]</h4> 
