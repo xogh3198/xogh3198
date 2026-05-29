@@ -36,7 +36,7 @@ Tech Stack</h3>
   <h4>[Intern/Education]</h4> 
   <img src="https://img.shields.io/badge/suresofttech-0052CC?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/inflearn-14BF96?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CJ(CloudWave)-0078D4?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CJ Olivenetworks(CloudWave)-0078D4?style=for-the-badge&logoColor=white"/>
 
 </div>
 
