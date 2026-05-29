@@ -24,7 +24,7 @@ Tech Stack</h3>
   <h4>[Frontend]</h4> 
     <img src="https://img.shields.io/badge/HTML-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
 
   <h4>[Certificates]</h4> 
    <img src="https://img.shields.io/badge/정보처리기사-0052CC?style=for-the-badge&logoColor=white"/>
