@@ -25,7 +25,7 @@ AWS와 Kubernetes를 기반으로 안정적인 배포와 관측 가능한 운영
 | --- | --- | --- |
 | [BiteCompany](https://www.bitecompany.co.kr) | 수산물 판매자와 소비자를 연결하는 B2B2C 커머스 플랫폼 개발·운영 | AWS · Docker · CI/CD |
 | [CJ OliveNetworks Cloud Wave](https://github.com/xogh3198/cwave_k8s) | Cloud Wave 6기에서 구축한 GitOps 배포 및 애플리케이션 관측 환경 | Kubernetes · Argo CD · Helm · Prometheus · Grafana |
-| [rhwp](https://github.com/edwardkim/rhwp) | Rust·WASM 기반 HWP/HWPX 편집기의 문서 비교·이력 UI 안내 개선 ([merged PR #1162](https://github.com/edwardkim/rhwp/pull/1162)) | Rust · WebAssembly · Open Source |
+| [rhwp](https://github.com/edwardkim/rhwp) | Rust·WASM 기반 HWP/HWPX 편집기의 문서 비교·이력 기능 개발 ([PR #571](https://github.com/edwardkim/rhwp/pull/571), [#799](https://github.com/edwardkim/rhwp/pull/799)) 및 후속 문서화 ([merged #1162](https://github.com/edwardkim/rhwp/pull/1162)) | Rust · WebAssembly · Open Source |
 | [Plant AI Server](https://github.com/xogh3198/graduation_AI) | AWS 이벤트와 로컬 GPU를 연결한 하이브리드 AI 파이프라인 | S3 · Lambda · K3s · FastAPI · YOLO |
 | [MONEY PROJECT](https://github.com/xogh3198/MONEY_PROJECT) | 금융·홍보 기능을 제공하는 멀티서비스 백엔드와 EC2 배포 흐름 | Spring Boot · PostgreSQL · Docker · GitHub Actions |
 
