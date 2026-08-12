@@ -9,6 +9,7 @@ AWS와 Kubernetes를 기반으로 **반복 가능한 배포**, **관측 가능�
 
 [![GitHub](https://img.shields.io/badge/GitHub-xogh3198-181717?style=flat-square&logo=github)](https://github.com/xogh3198)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Taeho_Lee-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taeho-lee-ab901338b/)
+[![Tech Blog](https://img.shields.io/badge/Tech_Blog-Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://bright-gibbon-ac2.notion.site/39f812e9889981fbb410ce901533246d)
 [![Email](https://img.shields.io/badge/Email-taeho3198%40naver.com-03C75A?style=flat-square&logo=naver&logoColor=white)](mailto:taeho3198@naver.com)
 
 </div>
@@ -19,6 +20,12 @@ AWS와 Kubernetes를 기반으로 **반복 가능한 배포**, **관측 가능�
 - AWS, Kubernetes, GitOps, 모니터링을 중심으로 플랫폼 엔지니어링 역량을 쌓고 있습니다.
 - 백엔드 개발 경험을 바탕으로 Java/Spring 서비스와 인프라 사이의 문제를 함께 살펴봅니다.
 - 현재 클라우드 환경의 **리소스 효율적인 Agentic Workflow Orchestration**과 하이브리드 AI 인프라를 탐구하고 있습니다.
+
+## Engineering notes
+
+### [태호의 기술 블로그 →](https://bright-gibbon-ac2.notion.site/39f812e9889981fbb410ce901533246d)
+
+클라우드·AWS·Kubernetes·백엔드 개발 과정에서 배운 내용과 문제 해결 기록을 정리합니다.
 
 ## Selected projects
 
@@ -45,6 +52,23 @@ AWS와 Kubernetes를 기반으로 **반복 가능한 배포**, **관측 가능�
 - Argo CD, Helm, NGINX Ingress와 환경별 매니페스트로 GitOps 배포 구조를 구성했습니다.
 - Prometheus·Grafana와 Kafka/PostgreSQL exporter를 활용한 모니터링 구성을 다뤘습니다.
 - **Stack:** Kubernetes, Argo CD, Helm, Karpenter, Prometheus, Grafana, AWS
+
+## GitHub stats
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=xogh3198&amp;show_icons=true&amp;include_all_commits=true&amp;hide_border=true&amp;rank_icon=github&amp;theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=xogh3198&amp;show_icons=true&amp;include_all_commits=true&amp;hide_border=true&amp;rank_icon=github&amp;theme=default" />
+  <img height="165" alt="Taeho Lee's GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=xogh3198&amp;show_icons=true&amp;include_all_commits=true&amp;hide_border=true&amp;rank_icon=github" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=xogh3198&amp;layout=compact&amp;langs_count=6&amp;hide=html,css,smarty&amp;hide_border=true&amp;theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=xogh3198&amp;layout=compact&amp;langs_count=6&amp;hide=html,css,smarty&amp;hide_border=true&amp;theme=default" />
+  <img height="165" alt="Taeho Lee's most used public repository languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xogh3198&amp;layout=compact&amp;langs_count=6&amp;hide=html,css,smarty&amp;hide_border=true" />
+</picture>
+
+</div>
 
 ## Platform mindset
 
