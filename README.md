@@ -44,14 +44,14 @@ AWS와 Kubernetes를 기반으로 안정적인 배포와 관측 가능한 운영
 
 ## Experience
 
-<table align="center">
+<table>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="400">
       <a href="https://www.bitecompany.co.kr"><img src="https://github.com/bitencompany.png?size=160" width="76" alt="BiteCompany" /></a>
       <br />
       <strong>BiteCompany / TradLab</strong>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="400">
       <a href="https://www.suresofttech.com/"><img src="./assets/suresoft.png" width="220" alt="SURESOFT" /></a>
       <br />
       <strong>SureSoftTech</strong>
@@ -63,19 +63,19 @@ AWS와 Kubernetes를 기반으로 안정적인 배포와 관측 가능한 운영
 
 ## Certifications
 
-<table align="center">
+<table>
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="265">
       <a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-solutions-architect-associate"><img src="./assets/aws-saa.png" height="120" alt="AWS Certified Solutions Architect – Associate" /></a>
       <br />
       <strong>AWS Solutions Architect – Associate</strong>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="265">
       <img src="./assets/information-processing-engineer.png" height="120" alt="정보처리기사" />
       <br />
       <strong>정보처리기사</strong>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="265">
       <img src="./assets/sqld.png" height="120" alt="SQLD" />
       <br />
       <strong>SQLD</strong>
