@@ -44,7 +44,7 @@ AWS와 Kubernetes를 기반으로 안정적인 배포와 관측 가능한 운영
 
 ## Experience
 
-<table width="100%">
+<table align="center">
   <tr>
     <td align="center" width="50%">
       <a href="https://www.bitecompany.co.kr"><img src="https://github.com/bitencompany.png?size=160" width="76" alt="BiteCompany" /></a>
@@ -63,7 +63,7 @@ AWS와 Kubernetes를 기반으로 안정적인 배포와 관측 가능한 운영
 
 ## Certifications
 
-<table width="100%">
+<table align="center">
   <tr>
     <td align="center" width="33%">
       <a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-solutions-architect-associate"><img src="./assets/aws-saa.png" height="120" alt="AWS Certified Solutions Architect – Associate" /></a>
