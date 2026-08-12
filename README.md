@@ -46,44 +46,55 @@ AWS와 Kubernetes를 기반으로 안정적인 배포와 관측 가능한 운영
 
 <table>
   <tr>
-    <td align="center" width="400">
+    <td align="center" width="265">
       <a href="https://www.bitecompany.co.kr"><img src="https://github.com/bitencompany.png?size=160" width="76" alt="BiteCompany" /></a>
       <br />
       <strong>BiteCompany / TradLab</strong>
     </td>
-    <td align="center" width="400">
-      <a href="https://www.suresofttech.com/"><img src="./assets/suresoft.png" width="220" alt="SURESOFT" /></a>
+    <td align="center" width="265">
+      <a href="https://www.suresofttech.com/"><img src="./assets/suresoft.png" width="190" alt="SURESOFT" /></a>
       <br />
       <strong>SureSoftTech</strong>
+    </td>
+    <td align="center" width="265">
+      <img src="./assets/nais-lab.png" width="190" alt="NAIS Lab @ Inha" />
+      <br />
+      <strong>NAIS Lab @ Inha</strong>
     </td>
   </tr>
 </table>
 
-**Inha University, Computer Engineering** · **CJ OliveNetworks Cloud Wave**
+## Education & Training
+
+- **Inha University** — Computer Engineering
+- **CJ OliveNetworks Cloud Wave** — Cloud Infrastructure Program
 
 ## Certifications
 
 <table>
   <tr>
-    <td align="center" width="265">
-      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-solutions-architect-associate"><img src="./assets/aws-saa.png" height="120" alt="AWS Certified Solutions Architect – Associate" /></a>
+    <td align="center" width="195">
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-solutions-architect-associate"><img src="./assets/aws-saa.png" height="108" alt="AWS Certified Solutions Architect – Associate" /></a>
       <br />
-      <strong>AWS Solutions Architect – Associate</strong>
+      <strong>AWS SAA</strong>
     </td>
-    <td align="center" width="265">
-      <img src="./assets/information-processing-engineer.png" height="120" alt="정보처리기사" />
+    <td align="center" width="195">
+      <img src="./assets/information-processing-engineer.png" height="108" alt="정보처리기사" />
       <br />
       <strong>정보처리기사</strong>
     </td>
-    <td align="center" width="265">
-      <img src="./assets/sqld.png" height="120" alt="SQLD" />
+    <td align="center" width="195">
+      <img src="./assets/sqld.png" height="108" alt="SQLD" />
       <br />
       <strong>SQLD</strong>
     </td>
+    <td align="center" width="195">
+      <img src="./assets/toeic-speaking-ih-140.png" height="108" alt="TOEIC Speaking Intermediate High, Score 140" />
+      <br />
+      <strong>TOEIC Speaking · IH</strong>
+    </td>
   </tr>
 </table>
-
-![TOEIC Speaking](https://img.shields.io/badge/TOEIC_Speaking-IH-0066CC?style=flat-square)
 
 ## GitHub activity
 
