@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="190" viewBox="0 0 760 190" role="img" aria-labelledby="title description">
+  <title id="title">Taeho Lee's GitHub activity</title>
+  <desc id="description">1,077 contributions in the last year, 37 public repositories, 4 achievements, and 5 followers as of August 12, 2026.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117" />
+      <stop offset="0.58" stop-color="#13233a" />
+      <stop offset="1" stop-color="#123f55" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#58a6ff" />
+      <stop offset="1" stop-color="#39d0b4" />
+    </linearGradient>
+  </defs>
+
+  <rect x="1" y="1" width="758" height="188" rx="18" fill="url(#background)" stroke="#2b4c67" />
+  <rect x="28" y="25" width="5" height="41" rx="2.5" fill="url(#accent)" />
+
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+    <text x="48" y="43" fill="#f0f6fc" font-size="20" font-weight="700">GitHub Activity</text>
+    <text x="48" y="63" fill="#8b949e" font-size="12">Taeho Lee · Updated 2026-08-12</text>
+
+    <g transform="translate(28 92)">
+      <g>
+        <text x="0" y="27" fill="#58a6ff" font-size="27" font-weight="700">1,077</text>
+        <text x="0" y="50" fill="#b7c4d2" font-size="12">CONTRIBUTIONS · LAST YEAR</text>
+      </g>
+
+      <line x1="190" y1="0" x2="190" y2="58" stroke="#2b4c67" />
+      <g transform="translate(220)">
+        <text x="0" y="27" fill="#79c0ff" font-size="27" font-weight="700">37</text>
+        <text x="0" y="50" fill="#b7c4d2" font-size="12">PUBLIC REPOSITORIES</text>
+      </g>
+
+      <line x1="390" y1="0" x2="390" y2="58" stroke="#2b4c67" />
+      <g transform="translate(420)">
+        <text x="0" y="27" fill="#56d4bc" font-size="27" font-weight="700">4</text>
+        <text x="0" y="50" fill="#b7c4d2" font-size="12">ACHIEVEMENTS</text>
+      </g>
+
+      <line x1="555" y1="0" x2="555" y2="58" stroke="#2b4c67" />
+      <g transform="translate(585)">
+        <text x="0" y="27" fill="#7ee787" font-size="27" font-weight="700">5</text>
+        <text x="0" y="50" fill="#b7c4d2" font-size="12">FOLLOWERS</text>
+      </g>
+    </g>
+  </g>
+</svg>
