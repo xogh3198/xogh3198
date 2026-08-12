@@ -46,14 +46,16 @@ AWS와 Kubernetes를 기반으로 안정적인 배포와 관측 가능한 운영
 
 <table>
   <tr>
-    <td align="center" width="90">
-      <a href="https://github.com/bitencompany"><img src="https://github.com/bitencompany.png?size=72" width="52" alt="BiteCompany" /></a>
+    <td align="center" width="50%">
+      <a href="https://www.bitecompany.co.kr"><img src="https://github.com/bitencompany.png?size=160" width="76" alt="BiteCompany" /></a>
+      <br />
+      <strong>BiteCompany / TradLab</strong>
     </td>
-    <td><strong>BiteCompany / TradLab</strong></td>
-    <td align="center" width="150">
-      <a href="https://www.suresofttech.com/"><img src="https://img.shields.io/badge/SURESOFT-1455A0?style=for-the-badge" alt="SURESOFT" /></a>
+    <td align="center" width="50%">
+      <a href="https://www.suresofttech.com/"><img src="./assets/suresoft.png" width="220" alt="SURESOFT" /></a>
+      <br />
+      <strong>SureSoftTech</strong>
     </td>
-    <td><strong>SureSoftTech</strong></td>
   </tr>
 </table>
 
@@ -61,9 +63,26 @@ AWS와 Kubernetes를 기반으로 안정적인 배포와 관측 가능한 운영
 
 ## Certifications
 
-[![AWS SAA](https://img.shields.io/badge/AWS_Certified-Solutions_Architect_Associate-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)](https://www.credly.com/org/amazon-web-services/badge/aws-certified-solutions-architect-associate)
-![Engineer Information Processing](https://img.shields.io/badge/정보처리기사-0052CC?style=flat-square)
-![SQLD](https://img.shields.io/badge/SQLD-F29111?style=flat-square)
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://www.credly.com/org/amazon-web-services/badge/aws-certified-solutions-architect-associate"><img src="./assets/aws-saa.png" height="120" alt="AWS Certified Solutions Architect – Associate" /></a>
+      <br />
+      <strong>AWS Solutions Architect – Associate</strong>
+    </td>
+    <td align="center" width="33%">
+      <img src="./assets/information-processing-engineer.png" height="120" alt="정보처리기사" />
+      <br />
+      <strong>정보처리기사</strong>
+    </td>
+    <td align="center" width="33%">
+      <img src="./assets/sqld.png" height="120" alt="SQLD" />
+      <br />
+      <strong>SQLD</strong>
+    </td>
+  </tr>
+</table>
+
 ![TOEIC Speaking](https://img.shields.io/badge/TOEIC_Speaking-IH-0066CC?style=flat-square)
 
 ## GitHub activity
